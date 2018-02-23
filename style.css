@@ -15,9 +15,9 @@ li {
   padding: 10px;
   text-decoration: none;
 }
-.topnav a.active {
-  color: white;
-}
-.topnav a:hover {
+nav a.active {
   color: black;
+}
+nav a:hover {
+  color: blue;
 }
