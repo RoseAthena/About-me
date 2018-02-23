@@ -7,6 +7,7 @@ ul {
   padding: 0;
   border: 4px solid chocolate;
   width: 90%;
+  align: center;
 }
 li {
   display: block;
